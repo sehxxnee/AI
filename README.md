@@ -1,2 +1,2 @@
 # AI
-2024년 하반기 AI 수업 프로젝트 코드입니다. 
+# 📌 AI Study Log (Python & Colab)
